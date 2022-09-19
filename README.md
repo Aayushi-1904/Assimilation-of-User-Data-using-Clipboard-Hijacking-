@@ -9,8 +9,16 @@ Steps to run this project :
 
 
 
+Example 
+
+
+Copied Data :
+
 ![Screenshot (1675)](https://user-images.githubusercontent.com/80635048/191066530-e2f97e7e-e09f-4b5d-a44d-2e43b64f972e.png)
 
+
+
+Results:
 
 ![image](https://user-images.githubusercontent.com/80635048/191066110-c48392cc-02a7-46f4-8581-f2fbdab9038c.png)
 ![image](https://user-images.githubusercontent.com/80635048/191072748-00ecc023-defe-4f04-b1ec-dc3b69bb5569.png)
